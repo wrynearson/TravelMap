@@ -37,12 +37,12 @@
 -
   index: 'map_8'
   country_name: 'AUSTRALIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_9'
   country_name: 'AUSTRIA'
-  visited: true
+  visited: false 
 
 -
   index: 'map_10'
@@ -52,7 +52,7 @@
 -
   index: 'map_11'
   country_name: 'BAHAMAS'
-  visited: false
+  visited: true
 
 -
   index: 'map_12'
@@ -72,7 +72,7 @@
 -
   index: 'map_15'
   country_name: 'BELGIUM'
-  visited: false
+  visited: true
 
 -
   index: 'map_16'
@@ -132,7 +132,7 @@
 -
   index: 'map_27'
   country_name: 'CAMBODIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_28'
@@ -142,7 +142,7 @@
 -
   index: 'map_29'
   country_name: 'CANADA'
-  visited: false
+  visited: true
 
 -
   index: 'map_30'
@@ -162,7 +162,7 @@
 -
   index: 'map_33'
   country_name: 'CHINA'
-  visited: True
+  visited: true
 
 -
   index: 'map_34'
@@ -262,7 +262,7 @@
 -
   index: 'map_53'
   country_name: 'ETHIOPIA'
-  visited: false
+  visited: true # transit
 
 -
   index: 'map_54'
@@ -272,7 +272,7 @@
 -
   index: 'map_55'
   country_name: 'FINLAND'
-  visited: false
+  visited: true # transit
 
 -
   index: 'map_56'
@@ -297,7 +297,7 @@
 -
   index: 'map_60'
   country_name: 'GERMANY'
-  visited: true
+  visited: false
 
 -
   index: 'map_61'
@@ -347,7 +347,7 @@
 -
   index: 'map_70'
   country_name: 'HUNGARY'
-  visited: false
+  visited: true
 
 -
   index: 'map_71'
@@ -362,7 +362,7 @@
 -
   index: 'map_73'
   country_name: 'INDONESIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_74'
@@ -397,7 +397,7 @@
 -
   index: 'map_80'
   country_name: 'JAPAN'
-  visited: false
+  visited: true #transit
 
 -
   index: 'map_81'
@@ -412,7 +412,7 @@
 -
   index: 'map_83'
   country_name: 'KENYA'
-  visited: false
+  visited: true
 
 -
   index: 'map_84'
@@ -492,7 +492,7 @@
 -
   index: 'map_99'
   country_name: 'MALAYSIA'
-  visited: false
+  visited: true # transit
 
 -
   index: 'map_100'
@@ -567,12 +567,12 @@
 -
   index: 'map_114'
   country_name: 'NETHERLANDS'
-  visited: false
+  visited: true
 
 -
   index: 'map_115'
   country_name: 'NEW ZEALAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_116'
@@ -702,7 +702,7 @@
 -
   index: 'map_141'
   country_name: 'SINGAPORE'
-  visited: false
+  visited: true
 
 -
   index: 'map_142'
@@ -747,7 +747,7 @@
 -
   index: 'map_150'
   country_name: 'SRI LANKA'
-  visited: false
+  visited: true
 
 -
   index: 'map_151'
@@ -787,7 +787,7 @@
 -
   index: 'map_158'
   country_name: 'TAIWAN'
-  visited: false
+  visited: true
 
 -
   index: 'map_159'
@@ -802,7 +802,7 @@
 -
   index: 'map_161'
   country_name: 'THAILAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_162'
@@ -837,7 +837,7 @@
 -
   index: 'map_168'
   country_name: 'UGANDA'
-  visited: false
+  visited: true
 
 -
   index: 'map_169'
@@ -847,7 +847,7 @@
 -
   index: 'map_170'
   country_name: 'UNITED ARAB EMIRATES'
-  visited: false
+  visited: true
 
 -
   index: 'map_171'
@@ -877,7 +877,7 @@
 -
   index: 'map_176'
   country_name: 'VIETNAM'
-  visited: false
+  visited: true
 
 -
   index: 'map_177'

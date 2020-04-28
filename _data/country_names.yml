@@ -732,7 +732,7 @@
 -
   index: 'map_147'
   country_name: 'SOUTH KOREA'
-  visited: false
+  visited: true # transit
 
 -
   index: 'map_148'
